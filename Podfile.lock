@@ -1,0 +1,20 @@
+PODS:
+  - mediasoup_ios_client (1.5.4)
+  - SocketRocket (0.5.1)
+
+DEPENDENCIES:
+  - mediasoup_ios_client
+  - SocketRocket
+
+SPEC REPOS:
+  trunk:
+    - mediasoup_ios_client
+    - SocketRocket
+
+SPEC CHECKSUMS:
+  mediasoup_ios_client: b7ff4fe25cf2069cfa04a63690b0cdcdd4a4822c
+  SocketRocket: d57c7159b83c3c6655745cd15302aa24b6bae531
+
+PODFILE CHECKSUM: edc6586640ee4ad43db5981e2d919594d02ea34c
+
+COCOAPODS: 1.10.1

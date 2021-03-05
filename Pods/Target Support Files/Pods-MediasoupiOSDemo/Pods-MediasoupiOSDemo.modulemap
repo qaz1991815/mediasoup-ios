@@ -1,0 +1,6 @@
+framework module Pods_MediasoupiOSDemo {
+  umbrella header "Pods-MediasoupiOSDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

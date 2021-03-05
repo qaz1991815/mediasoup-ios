@@ -1,0 +1,4 @@
+${PODS_ROOT}/Target Support Files/Pods-MediasoupiOSDemo/Pods-MediasoupiOSDemo-frameworks.sh
+${BUILT_PRODUCTS_DIR}/SocketRocket/SocketRocket.framework
+${PODS_ROOT}/mediasoup_ios_client/build/mediasoup_client_ios.framework
+${PODS_ROOT}/mediasoup_ios_client/mediasoup-client-ios/dependencies/webrtc/src/out_ios_libs/WebRTC.framework

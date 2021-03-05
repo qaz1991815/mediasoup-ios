@@ -1,0 +1,6 @@
+framework module Pods_MediasoupiOSDemo_MediasoupiOSDemoUITests {
+  umbrella header "Pods-MediasoupiOSDemo-MediasoupiOSDemoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
